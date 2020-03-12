@@ -1,0 +1,7 @@
+{
+  "name": "homeDoc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
